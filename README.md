@@ -1,4 +1,4 @@
-﻿# [Eleventy Html5UP Highlights](https://eleventy-html5up-highlights.appseed.us)
+# [Eleventy Html5UP Highlights](https://appseed.us/static-site/eleventy-html5up-highlights)
 
 Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Highlights Design  
 
@@ -21,6 +21,7 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Highli
 ## App Links
 
 - [Eleventy Html5UP Highlights](https://eleventy-html5up-highlights.appseed.us) - Live DEMO
+- [Eleventy Html5UP Highlights](https://appseed.us/static-site/eleventy-html5up-highlights) - Product Info
 
 <br />
 
@@ -47,4 +48,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Highlights](https://eleventy-html5up-highlights.appseed.us) - provided by **AppSeed**
+[Eleventy Html5UP Highlights](https://appseed.us/static-site/eleventy-html5up-highlights) - provided by **AppSeed**
